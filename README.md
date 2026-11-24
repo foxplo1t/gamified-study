@@ -13,7 +13,7 @@ Pixel-art battles, daily quests and spaced repetition turn five hard computer-en
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS-F38020?logo=cloudflare&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-HTTPS-003A70?logo=letsencrypt&logoColor=white)
 
-🔗 **Live demo:** _coming soon_ <!-- add the link here -->
+🔗 **Live site:** [intzirtzis.xyz](https://intzirtzis.xyz) (free account, in Greek)
 
 ---
 
@@ -96,6 +96,7 @@ flowchart LR
 
 ## Impact
 
+- 🌍 Live and public at [intzirtzis.xyz](https://intzirtzis.xyz), with HTTPS, account emails, daily backups and GDPR-ready [privacy](https://intzirtzis.xyz/#/legal/privacy), [terms](https://intzirtzis.xyz/#/legal/terms) and [cookies](https://intzirtzis.xyz/#/legal/cookies) pages
 - 📚 576 questions and 43 lessons covering 5 semester courses
 - 📱 Used on both phones and desktops
 
